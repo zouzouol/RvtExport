@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RvtExport", "RvtExport\RvtExport.csproj", "{09677ABB-E3CB-4677-A020-CA81CAD5D26C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExportLib", "ExportLib\ExportLib.csproj", "{67B97A53-8E27-43DA-8DDE-BE5674B4F754}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09677ABB-E3CB-4677-A020-CA81CAD5D26C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09677ABB-E3CB-4677-A020-CA81CAD5D26C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09677ABB-E3CB-4677-A020-CA81CAD5D26C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09677ABB-E3CB-4677-A020-CA81CAD5D26C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67B97A53-8E27-43DA-8DDE-BE5674B4F754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67B97A53-8E27-43DA-8DDE-BE5674B4F754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67B97A53-8E27-43DA-8DDE-BE5674B4F754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67B97A53-8E27-43DA-8DDE-BE5674B4F754}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD20A02A-F68F-4797-9460-5D34237222AE}
+	EndGlobalSection
+EndGlobal
